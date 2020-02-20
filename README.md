@@ -19,4 +19,11 @@ Hope you like this pet project
 * Selenium-Webdriver
 * Chromedriver for selenium
 
+## How to use
+
+* First make sure that chromedriver.exe is downloaded and copied to a folder named driver in the same folder where the Crawler.py is stored (or store it anywhere but make changes to the path inside the code)
+* If running for first time then first run setup.bat
+
+* To run the program double click on run.py or open terminal/commandprompt in same folder and type `python run.py` and press enter
+
 ### This project is licensed under the [MIT license](https://raw.githubusercontent.com/Shetty073/amazon-top-deals-python/master/LICENSE)

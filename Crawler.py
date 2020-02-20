@@ -94,8 +94,4 @@ class Crawler:
         # Get the top 5 deals
         temp = temp[0: 5]
         # print the top 5 deals
-        print([self.products[x] for x in temp])
-
-
-craw = Crawler("graphics cards")
-craw.get_best_deal()
+        return [self.products[x] for x in temp]
