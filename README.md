@@ -26,4 +26,9 @@ Hope you like this pet project
 
 * To run the program double click on run.py or open terminal/commandprompt in same folder and type `python run.py` and press enter
 
+## Future updates
+
+* Multiple country domains
+* Dynamic delay period based on user's internet bandwidth
+
 ### This project is licensed under the [MIT license](https://raw.githubusercontent.com/Shetty073/amazon-top-deals-python/master/LICENSE)
