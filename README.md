@@ -28,7 +28,7 @@ Hope you like this pet project
 
 ## Future updates
 
-* Country domain choices (.in/.com/.ca/.fr/ and many more)
 * Dynamic delay period based on user's internet bandwidth
+* Integrate this into a django-based web application (far future)
 
 ### This project is licensed under the [MIT license](https://raw.githubusercontent.com/Shetty073/amazon-top-deals-python/master/LICENSE)
